@@ -1,2 +1,2 @@
 
-[Math Notebook](./math.ipynb)
+# [Math Notebook](./math.ipynb)→
